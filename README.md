@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻 I’m currently a Computer Science student at Sunway University
+- 🌱 Learning machine learning on Kaggle with SkiLearn, robotics with Arduino
+- 🔭 Currently working on a multiplayer game on Unity3D.
+- 💬 Reach me through my LinkedIn at https://www.linkedin.com/in/jia-le-soong-97364b1ab/ 
