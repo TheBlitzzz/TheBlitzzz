@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jia Le 👋
 
 <!--
 **TheBlitzzz/TheBlitzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💻 I’m currently a Computer Science student at Sunway University
-- 🌱 Learning machine learning on Kaggle with SkiLearn, robotics with Arduino
-- 🔭 Currently working on a multiplayer game on Unity3D.
+- 💻 I’m a Computer Science fresh graduate at Sunway University.
+- Looking for software developer/full stack developer/AI engineer opportunities!
 - 💬 Reach me through my LinkedIn at https://www.linkedin.com/in/jia-le-soong-97364b1ab/ 
