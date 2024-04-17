@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 - 💻 I’m a Computer Science fresh graduate at Sunway University.
 - 💼 Looking for software developer/full stack developer/AI engineer opportunities!
-- 💬 Reach me through my LinkedIn at https://www.linkedin.com/in/jia-le-soong-97364b1ab/ 
+- 💬 Reach me through my LinkedIn at https://www.linkedin.com/in/jia-le-soong-97364b1ab/
+- 🌐 Come checkout my website at https://personal-portfolio-website-alpha-lemon.vercel.app/
